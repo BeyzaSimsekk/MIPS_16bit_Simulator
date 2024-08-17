@@ -1,0 +1,93 @@
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.csproj.SuggestedBindingRedirects.cache
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.Form1.resources
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+D:\SUMEYYE\COLDPLATE\Simülator\bin\Debug\Simülator.exe.config
+D:\SUMEYYE\COLDPLATE\Simülator\bin\Debug\Simülator.exe
+D:\SUMEYYE\COLDPLATE\Simülator\bin\Debug\Simülator.pdb
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.exe
+D:\SUMEYYE\COLDPLATE\Simülator\obj\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer organization\project doc\Simülator\bin\Debug\Simülator.exe.config
+E:\education\university\class3\spring\computer organization\project doc\Simülator\bin\Debug\Simülator.exe
+E:\education\university\class3\spring\computer organization\project doc\Simülator\bin\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.Form1.resources
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.exe
+E:\education\university\class3\spring\computer organization\project doc\Simülator\obj\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\bin\Debug\Simülator.exe.config
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\bin\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\bin\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.Form1.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Simülator\obj\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\bin\Debug\Simülator.exe.config
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\bin\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\bin\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.Form1.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\Simülator\obj\Debug\Simülator.pdb
+C:\Users\parla\OneDrive\Masaüstü\Simülator\bin\Debug\Simülator.exe.config
+C:\Users\parla\OneDrive\Masaüstü\Simülator\bin\Debug\Simülator.exe
+C:\Users\parla\OneDrive\Masaüstü\Simülator\bin\Debug\Simülator.pdb
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.csproj.SuggestedBindingRedirects.cache
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.Form1.resources
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.exe
+C:\Users\parla\OneDrive\Masaüstü\Simülator\obj\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\bin\Debug\Simülator.exe.config
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\bin\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\bin\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.Form1.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project 1\yeni\Simülator\obj\Debug\Simülator.pdb
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\bin\Debug\Simülator.exe.config
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\bin\Debug\Simülator.exe
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\bin\Debug\Simülator.pdb
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.csproj.SuggestedBindingRedirects.cache
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.Form1.resources
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.exe
+C:\Users\parla\OneDrive\Masaüstü\Assembly\Simülator\obj\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\bin\Debug\Simülator.exe.config
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\bin\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\bin\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.csproj.AssemblyReference.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.Form1.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.Properties.Resources.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.csproj.GenerateResource.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simülator\obj\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\bin\Debug\Simülator.exe.config
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\bin\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\bin\Debug\Simülator.pdb
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.csproj.AssemblyReference.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.Form1.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.Properties.Resources.resources
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.csproj.GenerateResource.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.csproj.CoreCompileInputs.cache
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.exe
+E:\education\university\class3\spring\computer_organization\project_doc\Project2\phase 2\Simulator16Bit\obj\Debug\Simülator.pdb
